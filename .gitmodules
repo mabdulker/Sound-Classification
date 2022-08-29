@@ -1,3 +1,6 @@
 [submodule "Emotional-Speech-Recognition"]
 	path = Emotional-Speech-Recognition
 	url = https://github.com/mabdulker/Emotional-Speech-Recognition.git
+[submodule "Heartbeat_Classfication"]
+	path = Heartbeat_Classfication
+	url = https://github.com/vsedov/Heartbeat_Classfication.git
