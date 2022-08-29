@@ -1,0 +1,3 @@
+[submodule "Emotional-Speech-Recognition"]
+	path = Emotional-Speech-Recognition
+	url = https://github.com/mabdulker/Emotional-Speech-Recognition.git
